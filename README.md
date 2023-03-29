@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @9521guptmahak.
-- 👀 I’m interested in data analysis and machine learning.
-- 🌱 I’m currently learning numpy and jango.
-- 💞️ I’m looking to collaborate with anyone interested to work with me .
+- 👋 Hi, I’m @9521guptmahak
 - 📫 You can reach me by simply mailing me.
 
 <!---
